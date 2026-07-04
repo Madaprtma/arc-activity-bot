@@ -1,0 +1,39 @@
+{
+  "wallet": "0xDfE1eD25BA20e7981AEAe69cDfcfE93509661574",
+  "risk_level": "moderate",
+  "total": 4,
+  "activities": [
+    {
+      "time": "2026-07-04T19:03:42.707852",
+      "type": "daily_gm",
+      "protocol": "Arc_Core",
+      "amount": 0.0,
+      "status": "success",
+      "notes": "Daily GM recorded"
+    },
+    {
+      "time": "2026-07-04T19:03:59.009034",
+      "type": "transfer",
+      "protocol": "Core_Arc",
+      "amount": 15.46,
+      "status": "success",
+      "notes": "Transfer 15.46 USDC"
+    },
+    {
+      "time": "2026-07-04T19:04:29.317657",
+      "type": "swap",
+      "protocol": "DEX_Arc",
+      "amount": 10.0,
+      "status": "success",
+      "notes": "Swap USDC->EURC amount 10"
+    },
+    {
+      "time": "2026-07-04T19:04:49.034687",
+      "type": "transfer",
+      "protocol": "Core_Arc",
+      "amount": 14.0,
+      "status": "success",
+      "notes": "Transfer 14.0 USDC"
+    }
+  ]
+}
